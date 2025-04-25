@@ -33,7 +33,7 @@
 
 #### 📫 Let’s Connect
 - ✉️ praharikaaddadpu@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/addapu-praharika/) *(optional if you want to add)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/addapu-praharika/)
 
 ---
 
