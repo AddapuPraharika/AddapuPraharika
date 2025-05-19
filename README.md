@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Addapu Praharika
 
-2nd-Year AI & ML Student | 🧠 Passionate about AI for Social Good | 👩‍💻 GSoC 2025 Aspirant (PSF - ilastik)
+3rd-Year AI & ML Student | 🧠 Passionate about AI for Social Good | 👩‍💻 GSoC 2025 Aspirant (PSF - ilastik)
 
 ---
 
